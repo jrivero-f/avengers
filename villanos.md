@@ -1,4 +1,4 @@
 # villanos
 
-* Dr. Doom
-* Red Skull
+* Dr. doom
+* Red skull
